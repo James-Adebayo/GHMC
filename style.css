@@ -5,8 +5,8 @@
 
 :root {
     /* Primary Colors */
-    --primary-blue: #1a365d;
-    --primary-blue-dark: #122844;
+    --primary-blue: #1a5d1d;
+    --primary-blue-dark: #0c2511;
     --primary-blue-light: #2a4365;
 
     /* Secondary/Accent Colors */
@@ -258,7 +258,7 @@ header nav {
 
 .hero-image {
     position: relative;
-    border: 8px solid var(--bg-light);
+    /* border: 8px solid var(--bg-light); */
     border-radius: 4px;
 }
 
